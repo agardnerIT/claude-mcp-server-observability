@@ -27,7 +27,7 @@ This step makes Claude Desktop aware of your MCP server.
             "command": "uv",
             "args": [
                 "--directory",
-                "/Users/adamgardner/claude/mcp_test",
+                "/full/path/claude-mcp-server-observability",
                 "run",
                 "logreader.py"
             ]
@@ -35,3 +35,20 @@ This step makes Claude Desktop aware of your MCP server.
   }
 }
 ```
+
+## Step 3: Launch Claude
+
+You should see the little "connector" icon. Click that and it should show one installed server called logreader.
+
+## Step 4: Ask Claude for Help!
+
+Start a new chat and ask something like: `I noticed errors in the logs on the 22nd March. Help me investigate`
+
+Claude should figure out that it should use your MCP server (and the three tools it offers) to help answer your query. Claude may request permission to run the tools. Accept the permissions.
+
+Sooner or later (may need additional hints / prompts) you should get the answer and suggested remediation:
+
+- Pipeline C and the release was most likely responsible for the errors
+- You should contact Susan
+
+
