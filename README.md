@@ -1,6 +1,6 @@
 # Claude MCP Server for Observability Demo
 
-Companion repo to this video: [Claude MCP Server for Observability](https://example.com)
+Companion repo to this video: [Claude MCP Server for Observability](https://youtu.be/lWO9M9SpGAg)
 
 ## Prerequisites
 
