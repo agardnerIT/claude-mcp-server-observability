@@ -1,0 +1,10 @@
+2025-03-22 09:00:00 INFO A log line 1
+2025-03-22 09:01:00 INFO A log line 2
+2025-03-22 09:02:00 INFO A log line 3
+2025-03-22 09:03:00 INFO A log line 4
+2025-03-22 09:04:30 INFO Deployment successful. v1.0.1
+2025-03-22 09:06:30 ERROR Payment failed. UserID=123
+2025-03-22 09:07:00 INFO A log line 5
+2025-03-22 09:08:00 ERROR Payment failed. UserID=200
+2025-03-22 11:09:00 DEBUG A fake debug log
+2025-03-22 12:03:00 INFO Another log line 6
