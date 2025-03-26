@@ -1,0 +1,27 @@
+{
+    "deployments": [{
+        "pipeline": "A",
+        "owner": "Abby",
+        "support_contact": "abby@example.com",
+        "last_deploy": "2025-03-21 14:32:00",
+        "current_tag": "v1.2.3"
+    }, {
+        "pipeline": "B",
+        "owner": "Bob",
+        "support_contact": "support@example.com",
+        "last_deploy": "2025-02-10 08:02:00",
+        "current_tag": "v9.0.3"
+    }, {
+        "pipeline": "C",
+        "owner": "Susan",
+        "support_contact": "susan@example.com",
+        "last_deploy": "2025-03-22 09:03:42",
+        "current_tag": "v1.0.1"
+    }, {
+        "pipeline": "D",
+        "owner": "Ian",
+        "support_contact": "ifake@example.com",
+        "last_deploy": "2025-03-15 08:43:55",
+        "current_tag": "v2.1.5"
+    }]
+}
