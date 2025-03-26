@@ -2,6 +2,8 @@
 
 Companion repo to this video: [Claude MCP Server for Observability](https://youtu.be/lWO9M9SpGAg)
 
+[![Claude MCP Server for Observability](https://img.youtube.com/vi/lWO9M9SpGAg/0.jpg)](https://www.youtube.com/watch?v=lWO9M9SpGAg)
+
 ## Prerequisites
 
 You'll need Claude Desktop for this (a free account is OK)
